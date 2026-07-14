@@ -189,33 +189,9 @@ Insights
 
 # 📸 Dashboard Preview
 
-## Executive Overview
+<img width="1084" height="578" alt="Screenshot 2026-07-14 194219" src="https://github.com/user-attachments/assets/66b6f36d-8c1c-44e2-bf86-342eef4f4806" />
+<img width="1202" height="534" alt="Screenshot 2026-07-14 194135" src="https://github.com/user-attachments/assets/c5d7a064-fe6f-4108-8722-3c4b7cc0cbc1" />
 
-![Executive Overview](Images/page1.png)
-
----
-
-## Acquisition & Channel Insights
-
-![Acquisition](Images/page2.png)
-
----
-
-## Landing Page Performance
-
-![Landing Page](Images/page3.png)
-
----
-
-## Audience & Demographics
-
-![Audience](Images/page4.png)
-
----
-
-## Events Funnel & Forecasting
-
-![Forecasting](Images/page5.png)
 
 ---
 
